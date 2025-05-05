@@ -4,7 +4,7 @@ layout: default
 
 **Formed in 2025** 
 
-[brother in law's website](./https://brianbiggs.com).
+[brother in law's website]([./https://brianbiggs.com](https://www.brianbiggs.com/)).
 
 There should be whitespace between paragraphs.
 
